@@ -479,6 +479,3 @@ Check out all the super awesome [contributors](https://github.com/thedaviddias/f
 
 
 
-
-
-
